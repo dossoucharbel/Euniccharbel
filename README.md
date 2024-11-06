@@ -21,9 +21,13 @@ Copy code
 
   {
     "id": "1",
+    
     "title": "Premier post",
+    
     "content": "Voici le contenu du premier post.",
+    
     "upvotes": 5,
+    
     "downvotes": 2
   },
 ]
@@ -144,9 +148,13 @@ Copy code
 
   {
     "id": "1",
+    
     "postId": "1",
+    
     "author": "Utilisateur1",
+    
     "content": "C'est un très bon post!",
+    
     "createdAt": "2024-11-01T12:00:00Z"
   },
 ]
